@@ -1,0 +1,39 @@
+/* Estilos globais*/
+* {
+  margin: 0;
+  padding: 0
+  box-sizing: border-box;
+ }
+
+body {
+  background-color: #d8d7d4;
+  font-family: monospace;
+}
+
+img {
+  border-radius: 8px;
+}
+
+h2 {
+   text-align: center; 
+}
+
+h1 {
+  text-align: right;
+}
+.mensagem-titulo {
+  color: brown;
+}
+
+.paragrafo {
+  font-style: italic;
+}
+
+.mensagem-corpo {
+  background-color: rgb(177, 151, 38);
+  padding: 8px;
+  border: 1px solid rgb(136, 20, 20);
+  border-radius: 8px;
+  width: 300px;
+  margin: 8px auto;
+}
